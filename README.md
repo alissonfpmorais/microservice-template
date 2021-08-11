@@ -1,4 +1,7 @@
 # Template para microserviço
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Este projeto é um template para a criação de microserviços.
 
@@ -12,6 +15,7 @@ Este projeto está dividido nas seguintes seções:
 - [Primeiros passos](#primeiros-passos)
 - [Guia de estilo](docs/code-style.md)
 - [Arquitetura do projeto](docs/architecture.md)
+- [Contribuidores](#contribuidores)
 
 ### <a name="requisitos-bsicos"></a>Requisitos básicos
 
@@ -100,3 +104,23 @@ $ npm run start
 ```
 
 Além deste, existem outros comandos/scripts disponíveis. Para verificar a lista completa, abra o arquivo `package.json` na raiz do projeto. Na seção (nó) ___scripts___ estará a lista completa de todos os comandos que podem ser executados com o projeto e o que cada um faz.
+
+## <a name="contribuidores"></a>Contribuidores ✨
+
+Muito obrigado a todos que contribuiram no desenvolvimendo do projeto ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/diego-moura-8499a664/"><img src="https://avatars.githubusercontent.com/u/9387797?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Diego Moura</b></sub></a><br /><a href="#ideas-dmourainatel" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Esse projeto segue a especificação [all-contributors](https://github.com/all-contributors/all-contributors). Contribuições de todos os tipos são bem-vindas!
