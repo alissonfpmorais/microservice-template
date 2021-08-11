@@ -1,6 +1,6 @@
 # Template para microserviço
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Este projeto é um template para a criação de microserviços.
@@ -115,6 +115,7 @@ Muito obrigado a todos que contribuiram no desenvolvimendo do projeto ([emoji ke
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/diego-moura-8499a664/"><img src="https://avatars.githubusercontent.com/u/9387797?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Diego Moura</b></sub></a><br /><a href="#ideas-dmourainatel" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/johnbrookson"><img src="https://avatars.githubusercontent.com/u/65250898?v=4?s=100" width="100px;" alt=""/><br /><sub><b>João Ribeiro Junior</b></sub></a><br /><a href="https://github.com/alissonfpmorais/microservice-template/commits?author=johnbrookson" title="Code">💻</a></td>
   </tr>
 </table>
 
