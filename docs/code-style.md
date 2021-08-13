@@ -34,8 +34,10 @@ _ ___membros de enumeradores___ devem utilizar o padrão `UPPER_CASE`
 - ___propriedades___, ___parâmetros de propriedades___, ___métodos___ e ___assessores___ devem utilizar o padrão `camelCase`
 - ___propriedades___, ___parâmetros de propriedades___, ___métodos___ e ___assessores___ que forem ___privadas___ devem utilizar o padrão `camelCase` com o prefixo `_` (underscore)
 - ___propriedades___, ___parâmetros de propriedades___, ___métodos___ e ___assessores___ que forem ___protegidos___ ou ___públicos___ devem utilizar o padrão `camelCase` e não podem utilizar o prefixo `_` (underscore)
+- ___propriedades___, ___parâmetros de propriedades___, ___métodos___ e ___assessores___ que forem ___privados___, ___estáticos___ e ___apenas de leitura___ devem utilizar o padrão `UPPER_CASE` e não podem utilizar o prefixo `_` (underscore)
 - ___tipos genéricos___ devem utilizar o padrão `PascalCase` e não podem conter apenas 1 letra como identificador, ao invés disso dê um nome que faça sentido para aquele contexto. Exemplo: ao invés de `interface Array<T>`, utilize algo como `interface Array<Item>`
 - ___classes abstratas___ e ___interfaces___ devem utilizar o padrão `PascalCase` com o prefixo `I` (letra I maiúscula) 
+- ___decoradores (decorators)___ devem utilizar o padrão `PascalCase` (não existe uma regra no linter para esta validação)
 
 ### <a name="demais-regras"></a>Demais regras
 

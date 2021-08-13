@@ -112,6 +112,12 @@ module.exports = {
         leadingUnderscore: 'forbid',
       },
       {
+        selector: 'memberLike',
+        modifiers: ['private', 'static', 'readonly'],
+        format: ['UPPER_CASE'],
+        leadingUnderscore: 'forbid',
+      },
+      {
         selector: 'parameter',
         format: ['camelCase'],
         leadingUnderscore: 'allow',
