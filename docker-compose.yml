@@ -1,0 +1,19 @@
+version: '3.7'
+
+services:
+  app:
+    build: .
+    container_name: container-app
+    entrypoint: ./entrypoint.sh
+    ports:
+      - '3000:3000'
+    environment:
+      - HOST=0.0.0.0
+    volumes:
+      - .:/home/node/app
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge  
